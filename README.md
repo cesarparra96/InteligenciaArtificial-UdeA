@@ -6,9 +6,3 @@ César Augusto Ruiz Parra, 1088027228, bioingeniería.
 
 
 https://bbci.de/competition/iv/
-
-
-import pandas as pd
-
-df2 = pd.read_csv("https://drive.google.com/drive/folders/1zBx0HxF4eHR1ioa4ilTP-kEmyoM89XBH")
-dfd.head()
